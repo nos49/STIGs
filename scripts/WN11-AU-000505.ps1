@@ -8,7 +8,7 @@
     GitHub          : github.com/nos49
     Date Created    : 2026-10-13
     Last Modified   : 2026-10-13
-    Version         : 2
+    Version         : 1.1
     CVEs            : N/A
     Plugin IDs      : 21156 (Windows Compliance Checks - DISA Microsoft Windows 11 STIG v2r9 audit)
     STIG-ID         : WN11-AU-000505
